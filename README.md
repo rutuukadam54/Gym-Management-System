@@ -14,4 +14,4 @@ Language Used -  Java Core \
 Concept Used - Swings, awt, JFrame\
 (Software used) IDE Used - NetBeans 8.2\
 Database Used - MySQL\
-Download the build folder to run the application or download from (http://www.filedropper.com/gymmanagementsystem)
+
